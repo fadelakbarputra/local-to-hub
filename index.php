@@ -9,5 +9,10 @@
 <body>
     <h1>Hello Wolrd</h1>
     <p>selamat sore</p>
+    <ul>
+        <li>makan</li>
+        <li>minum</li>
+        <li>tidur</li>
+    </ul>
 </body>
 </html>
